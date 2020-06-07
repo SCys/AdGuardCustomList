@@ -6012,3 +6012,4 @@
 /(^|\.)github\.com$/
 /(^|\.)raw\.githubusercontent\.com$/
 /(^|\.)liquorix\.net$/
+/(^|\.)nodesource\.com$/
