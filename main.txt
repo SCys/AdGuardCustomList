@@ -10,30 +10,8 @@
 #
 #**********************************************************************
 
-# MyList
-/(^|\.)bit\.no\.com$/
-/(^|\.)btlibrary\.me$/
-/(^|\.)cccat\.io$/
-/(^|\.)cloudcone\.com$/
-/(^|\.)gameloft\.com$/
-/(^|\.)inoreader\.com$/
-/(^|\.)ip138\.com$/
-/(^|\.)ping\.pe$/
-/(^|\.)reddit\.com$/
-/(^|\.)teddysun\.com$/
-/(^|\.)textnow\.com$/
-/(^|\.)tumbex\.com$/
-/(^|\.)twdvd\.com$/
-/(^|\.)unsplash\.com$/
-/(^|\.)xn--i2ru8q2qg\.com$/
-/(^|\.)yunpanjingling\.com$/
-/(^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$/
-/(^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$/
-/(^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$/
-/(^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$/
-/(^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$/
-
 # 国外域名
+/^.*\.eu$/
 /^.*\.hk$/
 /^.*\.jp$/
 /^.*\.kr$/
@@ -2046,7 +2024,8 @@
 /(^|\.)goodtv\.tv$/
 /(^|\.)goofind\.com$/
 /(^|\.)goo\.gl$/
-# Google TLDs$/
+
+# Google TLDs
 /(^|\.)google\.ad$/
 /(^|\.)google\.ae$/
 /(^|\.)google\.al$/
@@ -5772,21 +5751,6 @@
 /(^|\.)amazon\.co\.jp$/
 /(^|\.)amazon\.com$/
 /(^|\.)amazonaws\.com$/
-13.32.0.0/15
-13.35.0.0/17
-18.184.0.0/15
-18.194.0.0/15
-18.208.0.0/13
-18.232.0.0/14
-52.58.0.0/15
-52.74.0.0/16
-52.77.0.0/16
-52.84.0.0/15
-52.200.0.0/13
-54.93.0.0/16
-54.156.0.0/14
-54.226.0.0/15
-54.230.156.0/22
 
 # BBC
 /(^|\.)\w*uk-live\w*\.\w*$/
@@ -5805,20 +5769,6 @@
 /(^|\.)fb\.me$/
 /(^|\.)fbcdn\.com$/
 /(^|\.)fbcdn\.net$/
-31.13.24.0/21
-31.13.64.0/18
-45.64.40.0/22
-66.220.144.0/20
-69.63.176.0/20
-69.171.224.0/19
-74.119.76.0/22
-103.4.96.0/22
-129.134.0.0/17
-157.240.0.0/17
-173.252.64.0/18
-179.60.192.0/22
-185.60.216.0/22
-204.15.20.0/22
 
 # Github
 /(^|\.)github\.com$/
@@ -5978,27 +5928,24 @@
 /(^|\.)mytvsuper\.com$/
 
 # Netflix
+/(^|\.)fast\.com$/
 /(^|\.)netflix\.com$/
 /(^|\.)netflix\.net$/
+/(^|\.)netflixdnstest0\.com$/
+/(^|\.)netflixdnstest1\.com$/
+/(^|\.)netflixdnstest2\.com$/
+/(^|\.)netflixdnstest3\.com$/
+/(^|\.)netflixdnstest4\.com$/
+/(^|\.)netflixdnstest5\.com$/
+/(^|\.)netflixdnstest6\.com$/
+/(^|\.)netflixdnstest7\.com$/
+/(^|\.)netflixdnstest8\.com$/
+/(^|\.)netflixdnstest9\.com$/
 /(^|\.)nflxext\.com$/
 /(^|\.)nflximg\.com$/
 /(^|\.)nflximg\.net$/
+/(^|\.)nflxso\.net$/
 /(^|\.)nflxvideo\.net$/
-8.41.4.0/24
-23.246.0.0/18
-37.77.184.0/21
-45.57.0.0/17
-64.120.128.0/17
-66.197.128.0/17
-69.53.224.0/19
-108.175.32.0/20
-185.2.220.0/22
-185.9.188.0/22
-192.173.64.0/18
-198.38.96.0/19
-198.45.48.0/20
-207.45.72.0/22
-208.75.76.0/22
 
 # OneDrive
 /(^|\.)\w*1drv\w*\.\w*$/
@@ -6042,11 +5989,6 @@
 # ResiloSync
 /(^|\.)config\.getsync\.com$/
 /(^|\.)config\.resilio\.com$/
-54.235.182.157/32
-107.182.230.198/32
-173.244.209.150/32
-173.244.217.42/32
-209.95.56.60/32
 
 # Steam
 /(^|\.)fanatical\.com$/
@@ -6061,18 +6003,12 @@
 /(^|\.)telegra\.ph$/
 /(^|\.)telegram\.me$/
 /(^|\.)telegram\.org$/
-91.108.0.0/16
-109.239.140.0/24
-149.154.160.0/20
-2001:67c:4e8::/48
-2001:b28:f23d::/48
-2001:b28:f23f::/48
 
 # Twitch
 /(^|\.)twitch\.tv$/
 /(^|\.)ttvnw\.net$/
 /(^|\.)jtvnw\.net$/
-/(^|\.)akamaized\.net$/
+/(^|\.)/(\S*)ttvnw\.akamaized\.net$/
 
 # Twitter
 /(^|\.)t\.co$/
@@ -6087,3 +6023,7 @@
 
 #华文电视
 /(^|\.)ocnttv\.com$/
+
+# Custom
+/(^|\.)github\.com$/
+/(^|\.)raw\.githubusercontent\.com$/
