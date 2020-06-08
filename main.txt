@@ -6014,3 +6014,4 @@
 /(^|\.)liquorix\.net$/
 /(^|\.)nodesource\.com$/
 /(^|\.)gradle\.org$/
+/(^|\.)gradle-dn\.com$/
