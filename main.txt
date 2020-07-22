@@ -6022,3 +6022,7 @@
 # gohugo.io
 /(^|\.)gohugo\.io$/
 /(^|\.)discourse-cdn\.com$/
+
+# cdnjs
+/(^|\.)cdnjs\.cloudflare\.com$/
+
