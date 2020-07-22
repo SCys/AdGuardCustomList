@@ -6018,3 +6018,7 @@
 /(^|\.)manhuagui\.com$/
 /(^|\.)hamreus\.com$/
 /(^|\.)nodejs\.org$/
+
+# gohugo.io
+/(^|\.)gohugo\.io$/
+/(^|\.)discourse-cdn\.com$/
