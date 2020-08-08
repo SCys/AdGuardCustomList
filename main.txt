@@ -6018,8 +6018,10 @@
 /(^|\.)nodejs\.org$/
 /(^|\.)res\.ohmanhua\.com$/
 
+# cdn for manhuagui
 /(^|\.)eu\.hamreus\.com$/
 /(^|\.)us\.hamreus\.com$/
+/(^|\.)i\.hamreus\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
