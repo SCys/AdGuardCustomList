@@ -6015,10 +6015,11 @@
 /(^|\.)nodesource\.com$/
 /(^|\.)gradle\.org$/
 /(^|\.)gradle-dn\.com$/
-/(^|\.)hamreus\.com$/
 /(^|\.)nodejs\.org$/
 /(^|\.)res\.ohmanhua\.com$/
+
 /(^|\.)eu\.hamreus\.com$/
+/(^|\.)us\.hamreus\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
