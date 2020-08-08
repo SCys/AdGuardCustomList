@@ -6018,6 +6018,7 @@
 /(^|\.)hamreus\.com$/
 /(^|\.)nodejs\.org$/
 /(^|\.)res\.ohmanhua\.com$/
+/(^|\.)eu\.hamreus\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
