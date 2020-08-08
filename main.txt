@@ -6017,6 +6017,7 @@
 /(^|\.)gradle-dn\.com$/
 /(^|\.)hamreus\.com$/
 /(^|\.)nodejs\.org$/
+/(^|\.)res\.ohmanhua\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
