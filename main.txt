@@ -6015,6 +6015,7 @@
 /(^|\.)nodesource\.com$/
 /(^|\.)gradle\.org$/
 /(^|\.)gradle-dn\.com$/
+/(^|\.)services\.gradle\.org$/
 /(^|\.)nodejs\.org$/
 /(^|\.)flutter\.dev$/
 
