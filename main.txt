@@ -6016,12 +6016,13 @@
 /(^|\.)gradle\.org$/
 /(^|\.)gradle-dn\.com$/
 /(^|\.)nodejs\.org$/
-/(^|\.)res\.ohmanhua\.com$/
+/(^|\.)flutter\.dev$/
 
-# cdn for manhuagui
+# manhua
 /(^|\.)eu\.hamreus\.com$/
 /(^|\.)us\.hamreus\.com$/
 /(^|\.)i\.hamreus\.com$/
+/(^|\.)res\.ohmanhua\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
@@ -6029,4 +6030,3 @@
 
 # cdnjs
 /(^|\.)cdnjs\.cloudflare\.com$/
-
