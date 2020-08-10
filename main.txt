@@ -6024,6 +6024,7 @@
 /(^|\.)us\.hamreus\.com$/
 /(^|\.)i\.hamreus\.com$/
 /(^|\.)res\.ohmanhua\.com$/
+/(^|\.)p5\.manhuapan\.com$/
 
 # gohugo.io
 /(^|\.)gohugo\.io$/
